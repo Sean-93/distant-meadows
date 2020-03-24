@@ -1,11 +1,15 @@
-.engine{
-color: rgb(10, 134, 118);
-background-color: seagreen;
-text-decoration-color: red;
+.engine {
+  color: rgb(10, 134, 118);
+  background-color: seagreen;
+  text-decoration-color: red;
+  position: center;
+  justify-content: center;
+  background-position: center;
 }
 
-.center-screen{
-    background-position: center;
-    min-inline-size: 33%;
-    margin-top: 5%;
+.center-screen {
+  position: center;
+  justify-content: center;
+  background-position: center;
+  margin-top: 5%;
 }
