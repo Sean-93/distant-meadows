@@ -13,3 +13,9 @@
   background-position: center;
   margin-top: 5%;
 }
+
+#window-tab {
+  font-size: 1px;
+  text-decoration-color: darkblue;
+  background-color: aqua;
+}
