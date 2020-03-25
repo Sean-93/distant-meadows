@@ -1,21 +1,13 @@
 .engine {
   color: rgb(10, 134, 118);
   background-color: seagreen;
-  text-decoration-color: red;
-  position: center;
-  justify-content: center;
-  background-position: center;
 }
 
 .center-screen {
-  position: center;
-  justify-content: center;
-  background-position: center;
   margin-top: 5%;
 }
 
-#window-tab {
-  font-size: 1px;
-  text-decoration-color: darkblue;
-  background-color: aqua;
+.link-class {
+  text-align: center;
+  font-family: sans-serif;
 }
