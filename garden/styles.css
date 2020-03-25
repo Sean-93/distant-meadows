@@ -1,11 +1,12 @@
 .engine {
     color: rgb(10, 134, 118);
-    background-color: seagreen;
+    background-color: rgb(29, 168, 82);
   }
   
   .center-screen {
     margin-top: 5%;
     margin: auto;
+    padding: auto;
   }
   
   .link-class {
