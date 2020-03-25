@@ -1,0 +1,14 @@
+.engine {
+    color: rgb(155, 156, 70);
+    background-color: rgb(91, 187, 36);
+  }
+  
+  .center-screen {
+    margin-top: 5%;
+    margin: auto;
+  }
+  
+  .link-class {
+    text-align: center;
+    font-family: sans-serif;
+  }
