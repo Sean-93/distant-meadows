@@ -1,0 +1,14 @@
+.engine {
+    color: rgb(10, 134, 118);
+    background-color: seagreen;
+  }
+  
+  .center-screen {
+    margin-top: 5%;
+    margin: auto;
+  }
+  
+  .link-class {
+    text-align: center;
+    font-family: sans-serif;
+  }
